@@ -144,7 +144,7 @@ sections:
     design:
       columns: '1'
       view: citation
-    - block: experience
+  - block: experience
     id: experience
     content:
       title: Experience
