@@ -132,7 +132,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Selected Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -142,7 +142,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
   - block: experience
     id: experience
@@ -178,7 +178,7 @@ sections:
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -202,7 +202,7 @@ sections:
           tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
