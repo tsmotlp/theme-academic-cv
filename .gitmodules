@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/tsmotlp/tsmotlp.github.io.git
+	branch = master
