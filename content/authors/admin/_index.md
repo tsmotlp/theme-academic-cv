@@ -117,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-My name is Yongqiang Huang, and I am currently a gap year doctoral student. In 2024, I am set to pursue a Ph.D. in cyberspace security at the [School of Cyber Science and Engineering](https://ccs.scu.edu.cn/), Sichuan University, advised by Prof. [Yi Zhang](http://deepimaging.group/). My research interests are primarily focused on Artificial Intelligence, AI Security, and Medical Data Security. Before embarking on my doctoral journey, I amassed nearly three years of professional experience as a Cloud Computing Engineer at Huawei Cloud Computing Technologies Co. Ltd. 
+My name is Yongqiang Huang, My research interests are primarily focused on Artificial Intelligence, AI Security, and Medical Data Security. Before embarking on my doctoral journey, I amassed nearly three years of professional experience as a Cloud Computing Engineer at Huawei Cloud Computing Technologies Co. Ltd. 
 {style="text-align: justify;"}
+
+<!-- and I am currently a gap year doctoral student. In 2024, I am set to pursue a Ph.D. in cyberspace security at the [School of Cyber Science and Engineering](https://ccs.scu.edu.cn/), Sichuan University, advised by Prof. [Yi Zhang](http://deepimaging.group/).  -->

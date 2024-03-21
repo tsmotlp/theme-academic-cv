@@ -198,6 +198,8 @@ sections:
           tag: '*'
         - name: Cybersecurity
           tag: Cybersecurity
+        - name: Tools
+          tag: Tools
         - name: Other
           tag: Other
     design:
